@@ -27,4 +27,5 @@ Optimize the model.
 Bria Filali
 
 ## GitHub Repo
+https://github.com/briabr/neural-network-binary-classifier-model
 
